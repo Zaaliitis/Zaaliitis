@@ -3,7 +3,7 @@
 <p align="center">
   # Reach me here -->
   <a href="https://www.linkedin.com/in/roberts-zalitis/">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="50"/>
   </a>
 </p>
 
